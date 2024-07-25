@@ -5,7 +5,13 @@
     background-image:url(img/Menu.svg);
     background-repeat: no-repeat;
     background-position: center;
+    
 }
+.cabeçalho {
+        background-color: var(--branco);
+        display: flex;
+        justify-content: space-between;
+    }
 .container {
     display: flex;
     align-items: center;
